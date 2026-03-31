@@ -20,7 +20,7 @@
     static inline char* getRootFilePath(void){
         return "C:\\InCGames\\cl\\";
     }
-
+    
     static inline WIN32_FIND_DATA* listFiles(char* key, char* path){
         static WIN32_FIND_DATA buffer[512];
         size_t count = 0;
