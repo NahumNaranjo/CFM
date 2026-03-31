@@ -15,5 +15,5 @@ A simple CLearning crossover. This repository is part of CLearning's ecosystem a
 Download it from this repository and add the header to your project or use `cl -i cfm` in your console if you have CLearning installed
 
 ### Version
-1.1.1 - CFM, C File Manager
+1.2.0 - CFM, C File Manager
 Author: Nahum Naranjo

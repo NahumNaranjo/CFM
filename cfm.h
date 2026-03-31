@@ -5,7 +5,7 @@
     #include <direct.h>
     #include <sys/stat.h>
     #include "ariadne.h"
-     // Looks for files inside the CL folder path in InCGames parent folder
+    // Looks for files inside the CL folder path in InCGames parent folder
     static inline FILE* lookInRoot(char* filename, char* type){
         char path[1024];
         snprintf(path, sizeof(path), "C:\\InCGames\\CL\\%s", filename);
